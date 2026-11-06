@@ -1,0 +1,11 @@
+a = input("ingresa tu nombre: ");
+b = input("ingresa tu edad: ");
+c = input("ingresa tu hobbi favorito: "); 
+d = input("ingresa tu spiderman  favorito: ");
+e = input("ingresa tu animal favorito: ");
+print("---------------dialogo xsssdd-------------");
+print("hola",a);
+print("que bueno que tengas", b ,"años");
+print("mi hobbi fav tmb es",c);
+print("mi spiderman fav es miles y el tuyo es",d,"que bueno");
+print("mi animal fav es la serpiente del maiz y la tuya es la",e);
